@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3960
+
+A small utility to help managing tab pages and the windows they contain.
+
+Git repository (with screenshot): http://github.com/kien/tabman.vim
